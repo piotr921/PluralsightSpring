@@ -1,8 +1,2 @@
-INDEX VERSION 1.3+C:\Users\Comarch\Documents\Java\Spring_MVC\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+INDEX VERSION 1.3+C:\Users\Comarch\Documents\Java\PluralsightSpring\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
 734089071.index
-496842142.index
-2849831273.index
-611082748.index
-2750389701.index
-3287386112.index
-797811784.index

@@ -26,7 +26,7 @@
 	
 	<bean id="messageSource" 
 		class="org.springframework.context.support.ReloadableResourceBundleMessageSource"
-		p:basename="messages"></bean>
+		p:basename="classpath:messages"></bean>
 	
 <!-- 	<bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
 		<property name="prefix" value="/WEB-INF/jsp/"/>
