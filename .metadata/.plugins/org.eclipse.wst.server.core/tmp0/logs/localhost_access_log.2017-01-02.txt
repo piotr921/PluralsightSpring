@@ -27,3 +27,15 @@
 0:0:0:0:0:0:0:1 - - [02/Jan/2017:14:28:13 +0100] "POST /FitnessTracker/addMinutes.html?language=pl HTTP/1.1" 200 754
 0:0:0:0:0:0:0:1 - - [02/Jan/2017:14:28:22 +0100] "GET /FitnessTracker/addMinutes.html?language=en HTTP/1.1" 200 753
 0:0:0:0:0:0:0:1 - - [02/Jan/2017:14:28:24 +0100] "GET /FitnessTracker/addMinutes.html?language=pl HTTP/1.1" 200 753
+127.0.0.1 - - [02/Jan/2017:14:49:33 +0100] "GET / HTTP/1.1" 404 1000
+0:0:0:0:0:0:0:1 - - [02/Jan/2017:14:49:53 +0100] "GET /FitnessTracker/addGoal.html HTTP/1.1" 200 591
+0:0:0:0:0:0:0:1 - - [02/Jan/2017:14:49:57 +0100] "POST /FitnessTracker/addGoal.html HTTP/1.1" 405 1096
+127.0.0.1 - - [02/Jan/2017:14:58:35 +0100] "GET / HTTP/1.1" 404 1000
+0:0:0:0:0:0:0:1 - - [02/Jan/2017:14:59:14 +0100] "GET /FitnessTracker/addGoal.html HTTP/1.1" 200 592
+0:0:0:0:0:0:0:1 - - [02/Jan/2017:14:59:28 +0100] "POST /FitnessTracker/addGoal.html HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [02/Jan/2017:14:59:28 +0100] "GET /FitnessTracker/addMinutes.html HTTP/1.1" 200 741
+127.0.0.1 - - [02/Jan/2017:15:01:13 +0100] "GET / HTTP/1.1" 404 1000
+0:0:0:0:0:0:0:1 - - [02/Jan/2017:15:01:27 +0100] "GET /FitnessTracker/addMinutes.html HTTP/1.1" 200 782
+0:0:0:0:0:0:0:1 - - [02/Jan/2017:15:01:39 +0100] "GET /FitnessTracker/addGoal.html HTTP/1.1" 200 592
+0:0:0:0:0:0:0:1 - - [02/Jan/2017:15:01:43 +0100] "POST /FitnessTracker/addGoal.html HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [02/Jan/2017:15:01:43 +0100] "GET /FitnessTracker/addMinutes.html HTTP/1.1" 200 784
